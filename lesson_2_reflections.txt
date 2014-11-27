@@ -1,0 +1,12 @@
+Question 1 : 
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer :
+This allows you to initialize a .git file that will keep track of all changes. allowing you to comme back using checkout
+
+Question 2 :
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+the staging area allows you to upload files in an area, where git will be able to supervise their evolution : using the “git add” function
+It offers the value of being different than the working directory and offers a buffer
