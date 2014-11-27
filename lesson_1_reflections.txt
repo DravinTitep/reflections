@@ -1,0 +1,46 @@
+Question 1 : 
+How did viewing a diff between two versions of a file 
+help you see the bug that was introduced?
+
+Answer :
+faster way to track down differences between the previous working version 
+and the actual version that is not working. 
+For very long files it can make a big difference in time saving
+
+
+Question 2 : 
+How could having easy access to the entire history of a file make you 
+a more efficient programmer in the long term?
+
+Answer : 
+It allows you to solve your errors faster. and therefore spend more time on improving your knowledge of the code rather than find a typo
+
+Question 3:
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Answer :
+You can choose exactly when to save, which allows you to have working and finished blocks and not random saved points were the code won’t be working
+
+Question 4 : 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer : 
+It allows you to have a working code. If files were saved separately when you would retrieve them, they might not work together as the files haven’t been saved at the same time
+
+Question 5 : 
+How can you use the commands git log and git diff to view the history of files?
+
+Answer :
+git log gives you the full history with comments, and git diff will allow you to zoom in on the changes between 2 commits allowing you to understand what has changed in your code
+
+Question 6 :
+How might using version control make you more confident to make changes that could break something?
+
+Answer : 
+OK to make hard changes because you know you will be able to revert back to the latest version used that worked with the log and the diff commands in git
+
+Question 7 : 
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer : 
+Build up a website to sell things or launch a business
